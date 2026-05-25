@@ -1,6 +1,9 @@
-order,story_id,title,subtitle,byline,private
-orden,id_historia,titulo,subtitulo,firma,privada
-#,# Must match the tab name exactly. Use lowercase letters and hyphens (e.g. allegorical-woman),Story title,Optional subtitle,Optional attribution (supports markdown),"If ""yes"", then users will need the key you set in _config.yml to access this story."
-#,# Debe coincidir con el nombre de la pestaña exactamente. Usa letras minúsculas y guiones (p. ej. mujer-alegorica),Título de la historia,Subtítulo opcional,Atribución opcional (admite markdown),"Si ""sí"", los usuarios deberán utilizar la clave que fijes en _config.yml"
-1,blank_template,replace me with your title,,,FALSE
-2,plantilla_en_blanco,reemplázame con tu título,,,FALSE
+order,story_id,title,subtitle,byline,private,show_sections
+orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
+0,blank_template,Introduction: Discovering Quiet Forms of Love at UCSB,,,,
+1,plantilla_en_blanco,Quiet Support in Shared Spaces,,,,
+2,walking-together-through-b5qp,Walking Together Through Campus Life,,,,
+3,shared-joy-at-d83j,Shared Joy at UCSB,,,,
+4,m-guh1,"Small Conversations, Quiet Connection",,,,
+5,conclusion-love-in-llli,Love in Everyday Campus Life,,,,
+6,works-cited-525w,Works Cited,,,,
